@@ -1,0 +1,8 @@
+{
+  "/(root)/(home)/page": "app/(root)/(home)/page.js",
+  "/(root)/(home)/schedule/page": "app/(root)/(home)/schedule/page.js",
+  "/(root)/(home)/previous/page": "app/(root)/(home)/previous/page.js",
+  "/(root)/(home)/profile/page": "app/(root)/(home)/profile/page.js",
+  "/(root)/(home)/personal-room/page": "app/(root)/(home)/personal-room/page.js",
+  "/(root)/(home)/join/page": "app/(root)/(home)/join/page.js"
+}
